@@ -1,7 +1,7 @@
 <Project>
   <PropertyGroup>
     <AssemblyTitle>GravityFlux</AssemblyTitle>
-    <Version>1.0.2</Version>
+    <Version>1.0.3</Version>
     
     <Description>Silksong mod for adjusting gravity strength and adding a configurable random gravity mode.</Description>
     <Authors>xrroman</Authors>

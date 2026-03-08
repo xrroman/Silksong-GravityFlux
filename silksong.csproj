@@ -6,7 +6,7 @@
   <Import Condition="Exists('SilksongPath.props')" Project="SilksongPath.props" />
   <PropertyGroup>
     <TargetFramework>netstandard2.1</TargetFramework>
-    <LangVersion>latest</LangVersion>
+    <AssemblyName>GravityFlux</AssemblyName> <LangVersion>latest</LangVersion>
     <Nullable>enable</Nullable>
     <EnableNETAnalyzers>True</EnableNETAnalyzers>
     <AnalysisMode>recommended</AnalysisMode>
@@ -21,7 +21,7 @@
 
     <PackageReadmeFile>README.md</PackageReadmeFile>
     <PackageIcon>icon.png</PackageIcon>
-    <RepositoryUrl>https://github.com/Rayaxx/silksong</RepositoryUrl>
+    <RepositoryUrl>https://github.com/xrroman/Silksong-GravityFlux</RepositoryUrl>
   </PropertyGroup>
   <ItemGroup>
     <PackageReference Include="BepInEx.Analyzers" Version="1.0.8" PrivateAssets="all" />

@@ -51,8 +51,8 @@ The mod utilizes a dynamic scaling system to ensure that Hornet's movement remai
 
 Developed with ❤️ by **xrroman**.
 
-- **GitHub:** [xrroman](https://www.google.com/search?q=https://github.com/xrroman)
-- **Version:** 1.0.0
+- **GitHub:** [xrroman](https://github.com/xrroman)
+- **Version:** 1.0.1
 
 ---
 
